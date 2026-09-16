@@ -2,10 +2,6 @@
 
 A lightweight, single-threaded **HTTP/1.1 server built directly on TCP sockets** — no frameworks, no external libraries. It listens on a port, accepts connections from any standard web browser, parses the raw HTTP `GET` request, and serves a static HTML file back to it.
 
-> **Course:** COMP-3315 — Network Socket Programming, UCAS Gaza
-> **Assignment:** Option 3 — Mini Web Browser & HTTP Server (TCP)
-> **Author:** Eng. Mohanad Abu Ammar
-
 ---
 
 ## Table of Contents
@@ -101,8 +97,8 @@ mini-http-server/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/mini-http-server.git
-cd mini-http-server
+git clone https://github.com/cyber-mohanad/Mini_HTTP_Web_Server.git
+cd Mini_HTTP_Web_Server
 
 # 2. Run the server
 python3 server.py
@@ -200,9 +196,9 @@ curl -i http://localhost:8081/doesnotexist.html
 ## Author
 
 **Eng. Mohanad Abu Ammar**
-Cybersecurity Engineering Student — UCAS, Gaza
+Cybersecurity Engineering Student.
 [LinkedIn](https://www.linkedin.com/in/mohanad-abuammar) · [GitHub](https://github.com/cyber-mohanad)
 
 ---
 
-*Built for COMP-3315 — Network Socket Programming.*
+*Built for learning & development.*
