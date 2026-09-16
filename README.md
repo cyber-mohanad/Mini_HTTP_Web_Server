@@ -193,12 +193,7 @@ curl -i http://localhost:8081/doesnotexist.html
 - [ ] Basic protection against path traversal (e.g. requests containing `../`)
 - [ ] Persistent connections (`Connection: keep-alive`) instead of closing after every request
 
-## Author
-
-**Eng. Mohanad Abu Ammar**
-Cybersecurity Engineering Student.
-[LinkedIn](https://www.linkedin.com/in/mohanad-abuammar) · [GitHub](https://github.com/cyber-mohanad)
-
 ---
-
+<div align="center">    
 *Built for learning & development.*
+</div>
