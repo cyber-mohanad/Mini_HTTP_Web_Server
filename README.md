@@ -196,5 +196,7 @@ curl -i http://localhost:8081/doesnotexist.html
 ---
 <div align="center">    
 Built for learning & development.
-    All right reserved 2026©
+</div>
+<div align="center">    
+All right reserved 2026©
 </div>
