@@ -1,7 +1,6 @@
 """
 Mini HTTP Web Server — TCP Socket Programming
 ================================================
-COMP-3315 | Network Socket Programming | UCAS - Gaza
 Author: Eng. Mohanad Abu Ammar
 
 A lightweight, single-threaded HTTP/1.1 server built directly on Python's
